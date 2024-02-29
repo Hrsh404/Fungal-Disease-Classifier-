@@ -1,0 +1,21 @@
+Oilseed Type,Disease Name,Symptoms,Severity Level,Environmental Conditions,Image File
+Rapeseed,Anthracnose,Powdery white spots,Moderate,Cool and wet conditions,img_001.jpg
+Mustard,Rust,Powdery white spots,Mild,"Moderate humidity, 15-20°C",img_002.jpg
+Soybean,Phoma leaf spot,Dark sunken lesions,Moderate,"Moderate humidity, 15-20°C",img_003.jpg
+Rapeseed,Powdery mildew,Dark sunken lesions,Mild,Dry and hot conditions,img_004.jpg
+Rapeseed,Anthracnose,Dark sunken lesions,Moderate,"Moderate humidity, 15-20°C",img_005.jpg
+Mustard,Anthracnose,Yellow patches on leaf,Severe,"Moderate humidity, 15-20°C",img_006.jpg
+Soybean,Phoma leaf spot,Powdery white spots,Severe,"Moderate humidity, 15-20°C",img_007.jpg
+Soybean,Powdery mildew,Powdery white spots,Mild,Dry and hot conditions,img_008.jpg
+Rapeseed,Rust,White mold on stem,Severe,"Moderate humidity, 15-20°C",img_009.jpg
+Sunflower,Sclerotinia stem rot,Yellow patches on leaf,Severe,Cool and wet conditions,img_010.jpg
+Rapeseed,Powdery mildew,Orange pustules on leaf,Moderate,Dry and hot conditions,img_011.jpg
+Rapeseed,Phoma leaf spot,Yellow patches on leaf,Mild,Cool and wet conditions,img_012.jpg
+Rapeseed,Anthracnose,Orange pustules on leaf,Moderate,Dry and hot conditions,img_013.jpg
+Rapeseed,Rust,White mold on stem,Moderate,"Moderate humidity, 15-20°C",img_014.jpg
+Mustard,Powdery mildew,Dark spots on leaves,Moderate,Cool and wet conditions,img_015.jpg
+Soybean,Sclerotinia stem rot,Powdery white spots,Moderate,Dry and hot conditions,img_016.jpg
+Mustard,Sclerotinia stem rot,White mold on stem,Moderate,"High humidity, >20°C",img_017.jpg
+Mustard,Downy mildew,Powdery white spots,Moderate,"Moderate humidity, 15-20°C",img_018.jpg
+Mustard,Downy mildew,Dark sunken lesions,Moderate,Dry and hot conditions,img_019.jpg
+Rapeseed,Phoma leaf spot,Dark spots on leaves,Mild,"High humidity, >20°C",img_020.jpg
